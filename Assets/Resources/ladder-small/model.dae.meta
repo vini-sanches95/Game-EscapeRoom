@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 608747ccae19b46bcbdcf8c80ebb269d
+timeCreated: 1486042414
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: instance_0
+    100002: instance_1
+    100004: instance_2
+    100006: instance_3
+    100008: instance_4
+    100010: instance_5
+    100012: instance_6
+    100014: instance_7
+    100016: instance_8
+    100018: instance_9
+    100020: lad-side2
+    100022: lad-side2 1
+    100024: lad-step1
+    100026: lad-step1 1
+    100028: lad-step2
+    100030: lad-step2 1
+    100032: lad-step2 2
+    100034: lad-step3
+    100036: lad-step3 1
+    100038: lad-step4
+    100040: Last Saved SketchUp View
+    100042: //RootNode
+    400000: instance_0
+    400002: instance_1
+    400004: instance_2
+    400006: instance_3
+    400008: instance_4
+    400010: instance_5
+    400012: instance_6
+    400014: instance_7
+    400016: instance_8
+    400018: instance_9
+    400020: lad-side2
+    400022: lad-side2 1
+    400024: lad-step1
+    400026: lad-step1 1
+    400028: lad-step2
+    400030: lad-step2 1
+    400032: lad-step2 2
+    400034: lad-step3
+    400036: lad-step3 1
+    400038: lad-step4
+    400040: Last Saved SketchUp View
+    400042: //RootNode
+    2300000: lad-side2
+    2300002: lad-side2 1
+    2300004: lad-step1
+    2300006: lad-step1 1
+    2300008: lad-step2
+    2300010: lad-step2 1
+    2300012: lad-step2 2
+    2300014: lad-step3
+    2300016: lad-step3 1
+    2300018: lad-step4
+    3300000: lad-side2
+    3300002: lad-side2 1
+    3300004: lad-step1
+    3300006: lad-step1 1
+    3300008: lad-step2
+    3300010: lad-step2 1
+    3300012: lad-step2 2
+    3300014: lad-step3
+    3300016: lad-step3 1
+    3300018: lad-step4
+    4300000: lad-step3
+    4300002: lad-step2
+    4300004: lad-step3
+    4300006: lad-step1
+    4300008: lad-step4
+    4300010: lad-step1
+    4300012: lad-step2
+    4300014: lad-side2
+    4300016: lad-side2
+    6400000: lad-side2
+    6400002: lad-side2 1
+    6400004: lad-step1
+    6400006: lad-step1 1
+    6400008: lad-step2
+    6400010: lad-step2 1
+    6400012: lad-step2 2
+    6400014: lad-step3
+    6400016: lad-step3 1
+    6400018: lad-step4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

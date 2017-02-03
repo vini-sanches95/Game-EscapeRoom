@@ -1,0 +1,1358 @@
+fileFormatVersion: 2
+guid: 762a9464a1710444c94b6bbd3847af87
+timeCreated: 1486079180
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _2__wheel
+    100002: _2__wheel 1
+    100004: _2__wheel 10
+    100006: _2__wheel 11
+    100008: _2__wheel 12
+    100010: _2__wheel 13
+    100012: _2__wheel 2
+    100014: _2__wheel 3
+    100016: _2__wheel 4
+    100018: _2__wheel 5
+    100020: _2__wheel 6
+    100022: _2__wheel 7
+    100024: _2__wheel 8
+    100026: _2__wheel 9
+    100028: axle_holder
+    100030: control_box_nozzles
+    100032: control_box_nozzles 1
+    100034: control_box_nozzles 2
+    100036: control_gages
+    100038: control_gages 1
+    100040: control_gages 2
+    100042: coupling_arm
+    100044: coupling_arm_pins
+    100046: coupling_arm_pins 1
+    100048: coupling_pin
+    100050: fender
+    100052: fender 1
+    100054: group_0
+    100056: group_1
+    100058: group_10
+    100060: group_11
+    100062: group_12
+    100064: group_13
+    100066: group_14
+    100068: group_15
+    100070: group_16
+    100072: group_17
+    100074: group_18
+    100076: group_2
+    100078: group_3
+    100080: group_4
+    100082: group_5
+    100084: group_6
+    100086: group_7
+    100088: group_8
+    100090: group_9
+    100092: hose_storage_platform
+    100094: ID1005
+    100096: ID1015
+    100098: ID1037
+    100100: ID1069
+    100102: ID1079
+    100104: ID1089
+    100106: ID1099
+    100108: ID1122
+    100110: ID1132
+    100112: ID1142
+    100114: ID1152
+    100116: ID1162
+    100118: ID1172
+    100120: ID121
+    100122: ID131
+    100124: ID141
+    100126: ID151
+    100128: ID161
+    100130: ID176
+    100132: ID186
+    100134: ID190
+    100136: ID194
+    100138: ID236
+    100140: ID236 1
+    100142: ID236 2
+    100144: ID236 3
+    100146: ID236 4
+    100148: ID236 5
+    100150: ID236 6
+    100152: ID246
+    100154: ID246 1
+    100156: ID246 2
+    100158: ID246 3
+    100160: ID246 4
+    100162: ID246 5
+    100164: ID246 6
+    100166: ID256
+    100168: ID256 1
+    100170: ID256 2
+    100172: ID256 3
+    100174: ID256 4
+    100176: ID256 5
+    100178: ID256 6
+    100180: ID266
+    100182: ID266 1
+    100184: ID266 2
+    100186: ID266 3
+    100188: ID266 4
+    100190: ID266 5
+    100192: ID266 6
+    100194: ID276
+    100196: ID276 1
+    100198: ID276 2
+    100200: ID276 3
+    100202: ID276 4
+    100204: ID276 5
+    100206: ID276 6
+    100208: ID298
+    100210: ID298 1
+    100212: ID298 2
+    100214: ID298 3
+    100216: ID298 4
+    100218: ID298 5
+    100220: ID298 6
+    100222: ID308
+    100224: ID308 1
+    100226: ID308 2
+    100228: ID308 3
+    100230: ID308 4
+    100232: ID308 5
+    100234: ID308 6
+    100236: ID318
+    100238: ID318 1
+    100240: ID318 2
+    100242: ID318 3
+    100244: ID318 4
+    100246: ID318 5
+    100248: ID318 6
+    100250: ID328
+    100252: ID328 1
+    100254: ID328 2
+    100256: ID328 3
+    100258: ID328 4
+    100260: ID328 5
+    100262: ID328 6
+    100264: ID338
+    100266: ID338 1
+    100268: ID338 2
+    100270: ID338 3
+    100272: ID338 4
+    100274: ID338 5
+    100276: ID338 6
+    100278: ID400
+    100280: ID400 1
+    100282: ID410
+    100284: ID410 1
+    100286: ID433
+    100288: ID443
+    100290: ID465
+    100292: ID487
+    100294: ID509
+    100296: ID519
+    100298: ID529
+    100300: ID588
+    100302: ID598
+    100304: ID608
+    100306: ID618
+    100308: ID640
+    100310: ID640 1
+    100312: ID655
+    100314: ID655 1
+    100316: ID665
+    100318: ID665 1
+    100320: ID675
+    100322: ID675 1
+    100324: ID711
+    100326: ID711 1
+    100328: ID767
+    100330: ID911
+    100332: ID921
+    100334: ID931
+    100336: ID94
+    100338: ID941
+    100340: ID951
+    100342: ID961
+    100344: ID995
+    100346: instance_0
+    100348: instance_1
+    100350: instance_10
+    100352: instance_11
+    100354: instance_12
+    100356: instance_13
+    100358: instance_14
+    100360: instance_15
+    100362: instance_16
+    100364: instance_17
+    100366: instance_18
+    100368: instance_19
+    100370: instance_2
+    100372: instance_20
+    100374: instance_21
+    100376: instance_22
+    100378: instance_23
+    100380: instance_24
+    100382: instance_24 1
+    100384: instance_25
+    100386: instance_25 1
+    100388: instance_26
+    100390: instance_26 1
+    100392: instance_27
+    100394: instance_27 1
+    100396: instance_28
+    100398: instance_28 1
+    100400: instance_29
+    100402: instance_3
+    100404: instance_30
+    100406: instance_31
+    100408: instance_32
+    100410: instance_33
+    100412: instance_34
+    100414: instance_35
+    100416: instance_36
+    100418: instance_37
+    100420: instance_38
+    100422: instance_39
+    100424: instance_4
+    100426: instance_40
+    100428: instance_41
+    100430: instance_42
+    100432: instance_43
+    100434: instance_44
+    100436: instance_45
+    100438: instance_46
+    100440: instance_47
+    100442: instance_48
+    100444: instance_49
+    100446: instance_5
+    100448: instance_50
+    100450: instance_51
+    100452: instance_52
+    100454: instance_53
+    100456: instance_54
+    100458: instance_55
+    100460: instance_56
+    100462: instance_57
+    100464: instance_58
+    100466: instance_59
+    100468: instance_6
+    100470: instance_60
+    100472: instance_61
+    100474: instance_62
+    100476: instance_63
+    100478: instance_64
+    100480: instance_65
+    100482: instance_66
+    100484: instance_67
+    100486: instance_68
+    100488: instance_69
+    100490: instance_7
+    100492: instance_70
+    100494: instance_8
+    100496: instance_9
+    100498: platform_supports
+    100500: platform_supports 1
+    100502: platform_supports 2
+    100504: platform_supports 3
+    100506: rear_control_box
+    100508: tank_axle
+    100510: tank_axle 1
+    100512: tank_bottom
+    100514: tank_dome
+    100516: tank_dome 1
+    100518: tank_dome 2
+    100520: tank_dome_lid
+    100522: tank_dome_lid 1
+    100524: tank_dome_lid 2
+    100526: tank_dome_nozzle
+    100528: tank_dome_nozzle 1
+    100530: tank_dome_nozzle 2
+    100532: tank_ends
+    100534: tank_ends 1
+    100536: tank_fender_pins
+    100538: tank_fender_pins 1
+    100540: tank_fender_pins 2
+    100542: tank_fender_pins 3
+    100544: tank_sides
+    100546: tank_sides 1
+    100548: tank_sides 2
+    100550: tank_sides 3
+    100552: tank_top
+    100554: tank_top_rails
+    100556: tank_top_rails 1
+    100558: Toy_Truck_and_Tank_Trailer
+    100560: tractor-base
+    100562: tractor-exhaust_stacks
+    100564: tractor-exhaust_stacks 1
+    100566: tractor-front_axle
+    100568: tractor-front_bumper
+    100570: tractor-front_carrage
+    100572: tractor-grill
+    100574: tractor-head_light
+    100576: tractor-head_light 1
+    100578: tractor-hitch
+    100580: tractor-rear_axle
+    100582: tractor-rear_carrage
+    100584: tractor-steering_wheel
+    100586: tractor-steering_wheel_shaft
+    100588: tractor_cab
+    100590: tractor_fender
+    100592: tractor_fender 1
+    100594: //RootNode
+    400000: _2__wheel
+    400002: _2__wheel 1
+    400004: _2__wheel 10
+    400006: _2__wheel 11
+    400008: _2__wheel 12
+    400010: _2__wheel 13
+    400012: _2__wheel 2
+    400014: _2__wheel 3
+    400016: _2__wheel 4
+    400018: _2__wheel 5
+    400020: _2__wheel 6
+    400022: _2__wheel 7
+    400024: _2__wheel 8
+    400026: _2__wheel 9
+    400028: axle_holder
+    400030: control_box_nozzles
+    400032: control_box_nozzles 1
+    400034: control_box_nozzles 2
+    400036: control_gages
+    400038: control_gages 1
+    400040: control_gages 2
+    400042: coupling_arm
+    400044: coupling_arm_pins
+    400046: coupling_arm_pins 1
+    400048: coupling_pin
+    400050: fender
+    400052: fender 1
+    400054: group_0
+    400056: group_1
+    400058: group_10
+    400060: group_11
+    400062: group_12
+    400064: group_13
+    400066: group_14
+    400068: group_15
+    400070: group_16
+    400072: group_17
+    400074: group_18
+    400076: group_2
+    400078: group_3
+    400080: group_4
+    400082: group_5
+    400084: group_6
+    400086: group_7
+    400088: group_8
+    400090: group_9
+    400092: hose_storage_platform
+    400094: ID1005
+    400096: ID1015
+    400098: ID1037
+    400100: ID1069
+    400102: ID1079
+    400104: ID1089
+    400106: ID1099
+    400108: ID1122
+    400110: ID1132
+    400112: ID1142
+    400114: ID1152
+    400116: ID1162
+    400118: ID1172
+    400120: ID121
+    400122: ID131
+    400124: ID141
+    400126: ID151
+    400128: ID161
+    400130: ID176
+    400132: ID186
+    400134: ID190
+    400136: ID194
+    400138: ID236
+    400140: ID236 1
+    400142: ID236 2
+    400144: ID236 3
+    400146: ID236 4
+    400148: ID236 5
+    400150: ID236 6
+    400152: ID246
+    400154: ID246 1
+    400156: ID246 2
+    400158: ID246 3
+    400160: ID246 4
+    400162: ID246 5
+    400164: ID246 6
+    400166: ID256
+    400168: ID256 1
+    400170: ID256 2
+    400172: ID256 3
+    400174: ID256 4
+    400176: ID256 5
+    400178: ID256 6
+    400180: ID266
+    400182: ID266 1
+    400184: ID266 2
+    400186: ID266 3
+    400188: ID266 4
+    400190: ID266 5
+    400192: ID266 6
+    400194: ID276
+    400196: ID276 1
+    400198: ID276 2
+    400200: ID276 3
+    400202: ID276 4
+    400204: ID276 5
+    400206: ID276 6
+    400208: ID298
+    400210: ID298 1
+    400212: ID298 2
+    400214: ID298 3
+    400216: ID298 4
+    400218: ID298 5
+    400220: ID298 6
+    400222: ID308
+    400224: ID308 1
+    400226: ID308 2
+    400228: ID308 3
+    400230: ID308 4
+    400232: ID308 5
+    400234: ID308 6
+    400236: ID318
+    400238: ID318 1
+    400240: ID318 2
+    400242: ID318 3
+    400244: ID318 4
+    400246: ID318 5
+    400248: ID318 6
+    400250: ID328
+    400252: ID328 1
+    400254: ID328 2
+    400256: ID328 3
+    400258: ID328 4
+    400260: ID328 5
+    400262: ID328 6
+    400264: ID338
+    400266: ID338 1
+    400268: ID338 2
+    400270: ID338 3
+    400272: ID338 4
+    400274: ID338 5
+    400276: ID338 6
+    400278: ID400
+    400280: ID400 1
+    400282: ID410
+    400284: ID410 1
+    400286: ID433
+    400288: ID443
+    400290: ID465
+    400292: ID487
+    400294: ID509
+    400296: ID519
+    400298: ID529
+    400300: ID588
+    400302: ID598
+    400304: ID608
+    400306: ID618
+    400308: ID640
+    400310: ID640 1
+    400312: ID655
+    400314: ID655 1
+    400316: ID665
+    400318: ID665 1
+    400320: ID675
+    400322: ID675 1
+    400324: ID711
+    400326: ID711 1
+    400328: ID767
+    400330: ID911
+    400332: ID921
+    400334: ID931
+    400336: ID94
+    400338: ID941
+    400340: ID951
+    400342: ID961
+    400344: ID995
+    400346: instance_0
+    400348: instance_1
+    400350: instance_10
+    400352: instance_11
+    400354: instance_12
+    400356: instance_13
+    400358: instance_14
+    400360: instance_15
+    400362: instance_16
+    400364: instance_17
+    400366: instance_18
+    400368: instance_19
+    400370: instance_2
+    400372: instance_20
+    400374: instance_21
+    400376: instance_22
+    400378: instance_23
+    400380: instance_24
+    400382: instance_24 1
+    400384: instance_25
+    400386: instance_25 1
+    400388: instance_26
+    400390: instance_26 1
+    400392: instance_27
+    400394: instance_27 1
+    400396: instance_28
+    400398: instance_28 1
+    400400: instance_29
+    400402: instance_3
+    400404: instance_30
+    400406: instance_31
+    400408: instance_32
+    400410: instance_33
+    400412: instance_34
+    400414: instance_35
+    400416: instance_36
+    400418: instance_37
+    400420: instance_38
+    400422: instance_39
+    400424: instance_4
+    400426: instance_40
+    400428: instance_41
+    400430: instance_42
+    400432: instance_43
+    400434: instance_44
+    400436: instance_45
+    400438: instance_46
+    400440: instance_47
+    400442: instance_48
+    400444: instance_49
+    400446: instance_5
+    400448: instance_50
+    400450: instance_51
+    400452: instance_52
+    400454: instance_53
+    400456: instance_54
+    400458: instance_55
+    400460: instance_56
+    400462: instance_57
+    400464: instance_58
+    400466: instance_59
+    400468: instance_6
+    400470: instance_60
+    400472: instance_61
+    400474: instance_62
+    400476: instance_63
+    400478: instance_64
+    400480: instance_65
+    400482: instance_66
+    400484: instance_67
+    400486: instance_68
+    400488: instance_69
+    400490: instance_7
+    400492: instance_70
+    400494: instance_8
+    400496: instance_9
+    400498: platform_supports
+    400500: platform_supports 1
+    400502: platform_supports 2
+    400504: platform_supports 3
+    400506: rear_control_box
+    400508: tank_axle
+    400510: tank_axle 1
+    400512: tank_bottom
+    400514: tank_dome
+    400516: tank_dome 1
+    400518: tank_dome 2
+    400520: tank_dome_lid
+    400522: tank_dome_lid 1
+    400524: tank_dome_lid 2
+    400526: tank_dome_nozzle
+    400528: tank_dome_nozzle 1
+    400530: tank_dome_nozzle 2
+    400532: tank_ends
+    400534: tank_ends 1
+    400536: tank_fender_pins
+    400538: tank_fender_pins 1
+    400540: tank_fender_pins 2
+    400542: tank_fender_pins 3
+    400544: tank_sides
+    400546: tank_sides 1
+    400548: tank_sides 2
+    400550: tank_sides 3
+    400552: tank_top
+    400554: tank_top_rails
+    400556: tank_top_rails 1
+    400558: Toy_Truck_and_Tank_Trailer
+    400560: tractor-base
+    400562: tractor-exhaust_stacks
+    400564: tractor-exhaust_stacks 1
+    400566: tractor-front_axle
+    400568: tractor-front_bumper
+    400570: tractor-front_carrage
+    400572: tractor-grill
+    400574: tractor-head_light
+    400576: tractor-head_light 1
+    400578: tractor-hitch
+    400580: tractor-rear_axle
+    400582: tractor-rear_carrage
+    400584: tractor-steering_wheel
+    400586: tractor-steering_wheel_shaft
+    400588: tractor_cab
+    400590: tractor_fender
+    400592: tractor_fender 1
+    400594: //RootNode
+    2300000: _2__wheel
+    2300002: _2__wheel 1
+    2300004: _2__wheel 10
+    2300006: _2__wheel 11
+    2300008: _2__wheel 12
+    2300010: _2__wheel 13
+    2300012: _2__wheel 2
+    2300014: _2__wheel 3
+    2300016: _2__wheel 4
+    2300018: _2__wheel 5
+    2300020: _2__wheel 6
+    2300022: _2__wheel 7
+    2300024: _2__wheel 8
+    2300026: _2__wheel 9
+    2300028: axle_holder
+    2300030: control_box_nozzles
+    2300032: control_box_nozzles 1
+    2300034: control_box_nozzles 2
+    2300036: control_gages
+    2300038: control_gages 1
+    2300040: control_gages 2
+    2300042: coupling_arm
+    2300044: coupling_arm_pins
+    2300046: coupling_arm_pins 1
+    2300048: coupling_pin
+    2300050: fender
+    2300052: fender 1
+    2300054: hose_storage_platform
+    2300056: ID1005
+    2300058: ID1015
+    2300060: ID1069
+    2300062: ID1079
+    2300064: ID1089
+    2300066: ID1099
+    2300068: ID1122
+    2300070: ID1132
+    2300072: ID1142
+    2300074: ID1152
+    2300076: ID1162
+    2300078: ID1172
+    2300080: ID121
+    2300082: ID131
+    2300084: ID141
+    2300086: ID151
+    2300088: ID161
+    2300090: ID176
+    2300092: ID236
+    2300094: ID236 1
+    2300096: ID236 2
+    2300098: ID236 3
+    2300100: ID236 4
+    2300102: ID236 5
+    2300104: ID236 6
+    2300106: ID246
+    2300108: ID246 1
+    2300110: ID246 2
+    2300112: ID246 3
+    2300114: ID246 4
+    2300116: ID246 5
+    2300118: ID246 6
+    2300120: ID256
+    2300122: ID256 1
+    2300124: ID256 2
+    2300126: ID256 3
+    2300128: ID256 4
+    2300130: ID256 5
+    2300132: ID256 6
+    2300134: ID266
+    2300136: ID266 1
+    2300138: ID266 2
+    2300140: ID266 3
+    2300142: ID266 4
+    2300144: ID266 5
+    2300146: ID266 6
+    2300148: ID276
+    2300150: ID276 1
+    2300152: ID276 2
+    2300154: ID276 3
+    2300156: ID276 4
+    2300158: ID276 5
+    2300160: ID276 6
+    2300162: ID298
+    2300164: ID298 1
+    2300166: ID298 2
+    2300168: ID298 3
+    2300170: ID298 4
+    2300172: ID298 5
+    2300174: ID298 6
+    2300176: ID308
+    2300178: ID308 1
+    2300180: ID308 2
+    2300182: ID308 3
+    2300184: ID308 4
+    2300186: ID308 5
+    2300188: ID308 6
+    2300190: ID318
+    2300192: ID318 1
+    2300194: ID318 2
+    2300196: ID318 3
+    2300198: ID318 4
+    2300200: ID318 5
+    2300202: ID318 6
+    2300204: ID328
+    2300206: ID328 1
+    2300208: ID328 2
+    2300210: ID328 3
+    2300212: ID328 4
+    2300214: ID328 5
+    2300216: ID328 6
+    2300218: ID338
+    2300220: ID338 1
+    2300222: ID338 2
+    2300224: ID338 3
+    2300226: ID338 4
+    2300228: ID338 5
+    2300230: ID338 6
+    2300232: ID400
+    2300234: ID400 1
+    2300236: ID410
+    2300238: ID410 1
+    2300240: ID433
+    2300242: ID443
+    2300244: ID465
+    2300246: ID487
+    2300248: ID509
+    2300250: ID519
+    2300252: ID529
+    2300254: ID588
+    2300256: ID598
+    2300258: ID608
+    2300260: ID618
+    2300262: ID640
+    2300264: ID640 1
+    2300266: ID655
+    2300268: ID655 1
+    2300270: ID665
+    2300272: ID665 1
+    2300274: ID675
+    2300276: ID675 1
+    2300278: ID711
+    2300280: ID711 1
+    2300282: ID767
+    2300284: ID911
+    2300286: ID921
+    2300288: ID931
+    2300290: ID94
+    2300292: ID941
+    2300294: ID951
+    2300296: ID961
+    2300298: ID995
+    2300300: platform_supports
+    2300302: platform_supports 1
+    2300304: platform_supports 2
+    2300306: platform_supports 3
+    2300308: rear_control_box
+    2300310: tank_axle
+    2300312: tank_axle 1
+    2300314: tank_bottom
+    2300316: tank_dome
+    2300318: tank_dome 1
+    2300320: tank_dome 2
+    2300322: tank_dome_lid
+    2300324: tank_dome_lid 1
+    2300326: tank_dome_lid 2
+    2300328: tank_dome_nozzle
+    2300330: tank_dome_nozzle 1
+    2300332: tank_dome_nozzle 2
+    2300334: tank_ends
+    2300336: tank_ends 1
+    2300338: tank_fender_pins
+    2300340: tank_fender_pins 1
+    2300342: tank_fender_pins 2
+    2300344: tank_fender_pins 3
+    2300346: tank_sides
+    2300348: tank_sides 1
+    2300350: tank_sides 2
+    2300352: tank_sides 3
+    2300354: tank_top
+    2300356: tank_top_rails
+    2300358: tank_top_rails 1
+    2300360: tractor-base
+    2300362: tractor-exhaust_stacks
+    2300364: tractor-exhaust_stacks 1
+    2300366: tractor-front_axle
+    2300368: tractor-front_bumper
+    2300370: tractor-front_carrage
+    2300372: tractor-grill
+    2300374: tractor-head_light
+    2300376: tractor-head_light 1
+    2300378: tractor-hitch
+    2300380: tractor-rear_axle
+    2300382: tractor-rear_carrage
+    2300384: tractor-steering_wheel
+    2300386: tractor-steering_wheel_shaft
+    2300388: tractor_cab
+    2300390: tractor_fender
+    2300392: tractor_fender 1
+    3300000: _2__wheel
+    3300002: _2__wheel 1
+    3300004: _2__wheel 10
+    3300006: _2__wheel 11
+    3300008: _2__wheel 12
+    3300010: _2__wheel 13
+    3300012: _2__wheel 2
+    3300014: _2__wheel 3
+    3300016: _2__wheel 4
+    3300018: _2__wheel 5
+    3300020: _2__wheel 6
+    3300022: _2__wheel 7
+    3300024: _2__wheel 8
+    3300026: _2__wheel 9
+    3300028: axle_holder
+    3300030: control_box_nozzles
+    3300032: control_box_nozzles 1
+    3300034: control_box_nozzles 2
+    3300036: control_gages
+    3300038: control_gages 1
+    3300040: control_gages 2
+    3300042: coupling_arm
+    3300044: coupling_arm_pins
+    3300046: coupling_arm_pins 1
+    3300048: coupling_pin
+    3300050: fender
+    3300052: fender 1
+    3300054: hose_storage_platform
+    3300056: ID1005
+    3300058: ID1015
+    3300060: ID1069
+    3300062: ID1079
+    3300064: ID1089
+    3300066: ID1099
+    3300068: ID1122
+    3300070: ID1132
+    3300072: ID1142
+    3300074: ID1152
+    3300076: ID1162
+    3300078: ID1172
+    3300080: ID121
+    3300082: ID131
+    3300084: ID141
+    3300086: ID151
+    3300088: ID161
+    3300090: ID176
+    3300092: ID236
+    3300094: ID236 1
+    3300096: ID236 2
+    3300098: ID236 3
+    3300100: ID236 4
+    3300102: ID236 5
+    3300104: ID236 6
+    3300106: ID246
+    3300108: ID246 1
+    3300110: ID246 2
+    3300112: ID246 3
+    3300114: ID246 4
+    3300116: ID246 5
+    3300118: ID246 6
+    3300120: ID256
+    3300122: ID256 1
+    3300124: ID256 2
+    3300126: ID256 3
+    3300128: ID256 4
+    3300130: ID256 5
+    3300132: ID256 6
+    3300134: ID266
+    3300136: ID266 1
+    3300138: ID266 2
+    3300140: ID266 3
+    3300142: ID266 4
+    3300144: ID266 5
+    3300146: ID266 6
+    3300148: ID276
+    3300150: ID276 1
+    3300152: ID276 2
+    3300154: ID276 3
+    3300156: ID276 4
+    3300158: ID276 5
+    3300160: ID276 6
+    3300162: ID298
+    3300164: ID298 1
+    3300166: ID298 2
+    3300168: ID298 3
+    3300170: ID298 4
+    3300172: ID298 5
+    3300174: ID298 6
+    3300176: ID308
+    3300178: ID308 1
+    3300180: ID308 2
+    3300182: ID308 3
+    3300184: ID308 4
+    3300186: ID308 5
+    3300188: ID308 6
+    3300190: ID318
+    3300192: ID318 1
+    3300194: ID318 2
+    3300196: ID318 3
+    3300198: ID318 4
+    3300200: ID318 5
+    3300202: ID318 6
+    3300204: ID328
+    3300206: ID328 1
+    3300208: ID328 2
+    3300210: ID328 3
+    3300212: ID328 4
+    3300214: ID328 5
+    3300216: ID328 6
+    3300218: ID338
+    3300220: ID338 1
+    3300222: ID338 2
+    3300224: ID338 3
+    3300226: ID338 4
+    3300228: ID338 5
+    3300230: ID338 6
+    3300232: ID400
+    3300234: ID400 1
+    3300236: ID410
+    3300238: ID410 1
+    3300240: ID433
+    3300242: ID443
+    3300244: ID465
+    3300246: ID487
+    3300248: ID509
+    3300250: ID519
+    3300252: ID529
+    3300254: ID588
+    3300256: ID598
+    3300258: ID608
+    3300260: ID618
+    3300262: ID640
+    3300264: ID640 1
+    3300266: ID655
+    3300268: ID655 1
+    3300270: ID665
+    3300272: ID665 1
+    3300274: ID675
+    3300276: ID675 1
+    3300278: ID711
+    3300280: ID711 1
+    3300282: ID767
+    3300284: ID911
+    3300286: ID921
+    3300288: ID931
+    3300290: ID94
+    3300292: ID941
+    3300294: ID951
+    3300296: ID961
+    3300298: ID995
+    3300300: platform_supports
+    3300302: platform_supports 1
+    3300304: platform_supports 2
+    3300306: platform_supports 3
+    3300308: rear_control_box
+    3300310: tank_axle
+    3300312: tank_axle 1
+    3300314: tank_bottom
+    3300316: tank_dome
+    3300318: tank_dome 1
+    3300320: tank_dome 2
+    3300322: tank_dome_lid
+    3300324: tank_dome_lid 1
+    3300326: tank_dome_lid 2
+    3300328: tank_dome_nozzle
+    3300330: tank_dome_nozzle 1
+    3300332: tank_dome_nozzle 2
+    3300334: tank_ends
+    3300336: tank_ends 1
+    3300338: tank_fender_pins
+    3300340: tank_fender_pins 1
+    3300342: tank_fender_pins 2
+    3300344: tank_fender_pins 3
+    3300346: tank_sides
+    3300348: tank_sides 1
+    3300350: tank_sides 2
+    3300352: tank_sides 3
+    3300354: tank_top
+    3300356: tank_top_rails
+    3300358: tank_top_rails 1
+    3300360: tractor-base
+    3300362: tractor-exhaust_stacks
+    3300364: tractor-exhaust_stacks 1
+    3300366: tractor-front_axle
+    3300368: tractor-front_bumper
+    3300370: tractor-front_carrage
+    3300372: tractor-grill
+    3300374: tractor-head_light
+    3300376: tractor-head_light 1
+    3300378: tractor-hitch
+    3300380: tractor-rear_axle
+    3300382: tractor-rear_carrage
+    3300384: tractor-steering_wheel
+    3300386: tractor-steering_wheel_shaft
+    3300388: tractor_cab
+    3300390: tractor_fender
+    3300392: tractor_fender 1
+    4300000: tractor_fender
+    4300002: tractor_fender
+    4300004: tractor-front_bumper
+    4300006: tractor-steering_wheel_shaft
+    4300008: tractor-steering_wheel
+    4300010: ID94
+    4300012: tractor_cab
+    4300014: ID121
+    4300016: ID131
+    4300018: ID141
+    4300020: ID151
+    4300022: ID161
+    4300024: ID176
+    4300026: tractor-head_light
+    4300028: tractor-grill
+    4300030: _2__wheel
+    4300032: ID236
+    4300034: ID246
+    4300036: ID256
+    4300038: ID266
+    4300040: ID276
+    4300042: _2__wheel
+    4300044: ID298
+    4300046: ID308
+    4300048: ID318
+    4300050: ID328
+    4300052: ID338
+    4300054: tractor-front_axle
+    4300056: tractor-rear_axle
+    4300058: tractor-exhaust_stacks
+    4300060: ID400
+    4300062: ID410
+    4300064: tractor-base
+    4300066: ID433
+    4300068: ID443
+    4300070: tractor-front_carrage
+    4300072: ID465
+    4300074: tractor-rear_carrage
+    4300076: ID487
+    4300078: tractor-hitch
+    4300080: ID509
+    4300082: ID519
+    4300084: ID529
+    4300086: tank_axle
+    4300088: tank_fender_pins
+    4300090: axle_holder
+    4300092: ID588
+    4300094: ID598
+    4300096: ID608
+    4300098: ID618
+    4300100: fender
+    4300102: ID640
+    4300104: ID655
+    4300106: ID665
+    4300108: ID675
+    4300110: tank_dome
+    4300112: ID711
+    4300114: tank_dome_nozzle
+    4300116: tank_dome_lid
+    4300118: tank_dome
+    4300120: ID767
+    4300122: tank_dome_nozzle
+    4300124: tank_dome_lid
+    4300126: tank_top_rails
+    4300128: coupling_arm_pins
+    4300130: tank_sides
+    4300132: tank_sides
+    4300134: coupling_arm_pins
+    4300136: tank_ends
+    4300138: tank_top_rails
+    4300140: tank_ends
+    4300142: tank_bottom
+    4300144: ID911
+    4300146: ID921
+    4300148: ID931
+    4300150: ID941
+    4300152: ID951
+    4300154: ID961
+    4300156: tank_top
+    4300158: coupling_arm
+    4300160: ID995
+    4300162: ID1005
+    4300164: ID1015
+    4300166: coupling_pin
+    4300168: platform_supports
+    4300170: hose_storage_platform
+    4300172: ID1069
+    4300174: ID1079
+    4300176: ID1089
+    4300178: ID1099
+    4300180: rear_control_box
+    4300182: ID1122
+    4300184: ID1132
+    4300186: ID1142
+    4300188: ID1152
+    4300190: ID1162
+    4300192: ID1172
+    4300194: control_gages
+    4300196: control_box_nozzles
+    6400000: _2__wheel
+    6400002: _2__wheel 1
+    6400004: _2__wheel 10
+    6400006: _2__wheel 11
+    6400008: _2__wheel 12
+    6400010: _2__wheel 13
+    6400012: _2__wheel 2
+    6400014: _2__wheel 3
+    6400016: _2__wheel 4
+    6400018: _2__wheel 5
+    6400020: _2__wheel 6
+    6400022: _2__wheel 7
+    6400024: _2__wheel 8
+    6400026: _2__wheel 9
+    6400028: axle_holder
+    6400030: control_box_nozzles
+    6400032: control_box_nozzles 1
+    6400034: control_box_nozzles 2
+    6400036: control_gages
+    6400038: control_gages 1
+    6400040: control_gages 2
+    6400042: coupling_arm
+    6400044: coupling_arm_pins
+    6400046: coupling_arm_pins 1
+    6400048: coupling_pin
+    6400050: fender
+    6400052: fender 1
+    6400054: hose_storage_platform
+    6400056: ID1005
+    6400058: ID1015
+    6400060: ID1069
+    6400062: ID1079
+    6400064: ID1089
+    6400066: ID1099
+    6400068: ID1122
+    6400070: ID1132
+    6400072: ID1142
+    6400074: ID1152
+    6400076: ID1162
+    6400078: ID1172
+    6400080: ID121
+    6400082: ID131
+    6400084: ID141
+    6400086: ID151
+    6400088: ID161
+    6400090: ID176
+    6400092: ID236
+    6400094: ID236 1
+    6400096: ID236 2
+    6400098: ID236 3
+    6400100: ID236 4
+    6400102: ID236 5
+    6400104: ID236 6
+    6400106: ID246
+    6400108: ID246 1
+    6400110: ID246 2
+    6400112: ID246 3
+    6400114: ID246 4
+    6400116: ID246 5
+    6400118: ID246 6
+    6400120: ID256
+    6400122: ID256 1
+    6400124: ID256 2
+    6400126: ID256 3
+    6400128: ID256 4
+    6400130: ID256 5
+    6400132: ID256 6
+    6400134: ID266
+    6400136: ID266 1
+    6400138: ID266 2
+    6400140: ID266 3
+    6400142: ID266 4
+    6400144: ID266 5
+    6400146: ID266 6
+    6400148: ID276
+    6400150: ID276 1
+    6400152: ID276 2
+    6400154: ID276 3
+    6400156: ID276 4
+    6400158: ID276 5
+    6400160: ID276 6
+    6400162: ID298
+    6400164: ID298 1
+    6400166: ID298 2
+    6400168: ID298 3
+    6400170: ID298 4
+    6400172: ID298 5
+    6400174: ID298 6
+    6400176: ID308
+    6400178: ID308 1
+    6400180: ID308 2
+    6400182: ID308 3
+    6400184: ID308 4
+    6400186: ID308 5
+    6400188: ID308 6
+    6400190: ID318
+    6400192: ID318 1
+    6400194: ID318 2
+    6400196: ID318 3
+    6400198: ID318 4
+    6400200: ID318 5
+    6400202: ID318 6
+    6400204: ID328
+    6400206: ID328 1
+    6400208: ID328 2
+    6400210: ID328 3
+    6400212: ID328 4
+    6400214: ID328 5
+    6400216: ID328 6
+    6400218: ID338
+    6400220: ID338 1
+    6400222: ID338 2
+    6400224: ID338 3
+    6400226: ID338 4
+    6400228: ID338 5
+    6400230: ID338 6
+    6400232: ID400
+    6400234: ID400 1
+    6400236: ID410
+    6400238: ID410 1
+    6400240: ID433
+    6400242: ID443
+    6400244: ID465
+    6400246: ID487
+    6400248: ID509
+    6400250: ID519
+    6400252: ID529
+    6400254: ID588
+    6400256: ID598
+    6400258: ID608
+    6400260: ID618
+    6400262: ID640
+    6400264: ID640 1
+    6400266: ID655
+    6400268: ID655 1
+    6400270: ID665
+    6400272: ID665 1
+    6400274: ID675
+    6400276: ID675 1
+    6400278: ID711
+    6400280: ID711 1
+    6400282: ID767
+    6400284: ID911
+    6400286: ID921
+    6400288: ID931
+    6400290: ID94
+    6400292: ID941
+    6400294: ID951
+    6400296: ID961
+    6400298: ID995
+    6400300: platform_supports
+    6400302: platform_supports 1
+    6400304: platform_supports 2
+    6400306: platform_supports 3
+    6400308: rear_control_box
+    6400310: tank_axle
+    6400312: tank_axle 1
+    6400314: tank_bottom
+    6400316: tank_dome
+    6400318: tank_dome 1
+    6400320: tank_dome 2
+    6400322: tank_dome_lid
+    6400324: tank_dome_lid 1
+    6400326: tank_dome_lid 2
+    6400328: tank_dome_nozzle
+    6400330: tank_dome_nozzle 1
+    6400332: tank_dome_nozzle 2
+    6400334: tank_ends
+    6400336: tank_ends 1
+    6400338: tank_fender_pins
+    6400340: tank_fender_pins 1
+    6400342: tank_fender_pins 2
+    6400344: tank_fender_pins 3
+    6400346: tank_sides
+    6400348: tank_sides 1
+    6400350: tank_sides 2
+    6400352: tank_sides 3
+    6400354: tank_top
+    6400356: tank_top_rails
+    6400358: tank_top_rails 1
+    6400360: tractor-base
+    6400362: tractor-exhaust_stacks
+    6400364: tractor-exhaust_stacks 1
+    6400366: tractor-front_axle
+    6400368: tractor-front_bumper
+    6400370: tractor-front_carrage
+    6400372: tractor-grill
+    6400374: tractor-head_light
+    6400376: tractor-head_light 1
+    6400378: tractor-hitch
+    6400380: tractor-rear_axle
+    6400382: tractor-rear_carrage
+    6400384: tractor-steering_wheel
+    6400386: tractor-steering_wheel_shaft
+    6400388: tractor_cab
+    6400390: tractor_fender
+    6400392: tractor_fender 1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

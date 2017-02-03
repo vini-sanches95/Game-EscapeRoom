@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{66D36EBF-F3CD-CE56-D4F2-3909B1D0872C}") = "Jogo CG t2", "Assembly-CSharp-firstpass.csproj", "{23314108-F1D0-3956-91AA-7667040B9ED6}"
+EndProject
+Project("{66D36EBF-F3CD-CE56-D4F2-3909B1D0872C}") = "Jogo CG t2", "Assembly-CSharp.csproj", "{17119BEA-8C12-7059-71D5-71EFAE39F9B0}"
+EndProject
+Project("{66D36EBF-F3CD-CE56-D4F2-3909B1D0872C}") = "Jogo CG t2", "Assembly-CSharp-Editor.csproj", "{14A003FB-C0CA-5768-1C1C-D496B08D6426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23314108-F1D0-3956-91AA-7667040B9ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23314108-F1D0-3956-91AA-7667040B9ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23314108-F1D0-3956-91AA-7667040B9ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23314108-F1D0-3956-91AA-7667040B9ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17119BEA-8C12-7059-71D5-71EFAE39F9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17119BEA-8C12-7059-71D5-71EFAE39F9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17119BEA-8C12-7059-71D5-71EFAE39F9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17119BEA-8C12-7059-71D5-71EFAE39F9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A003FB-C0CA-5768-1C1C-D496B08D6426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A003FB-C0CA-5768-1C1C-D496B08D6426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A003FB-C0CA-5768-1C1C-D496B08D6426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A003FB-C0CA-5768-1C1C-D496B08D6426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

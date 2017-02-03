@@ -1,0 +1,17 @@
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/UnityEngine.dll
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/UnityEditor.dll
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/Mono.Cecil.dll
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/Unity.DataContract.dll
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/ViniciusSanches/Desktop/UFSCar/3ºAno-2015/2ºSemestre-2016-2/CG - Marcela/T2 - Jogo Unity/Jogo CG t2/Temp/bin/Debug/Mono.Cecil.Mdb.dll

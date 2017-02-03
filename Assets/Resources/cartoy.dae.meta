@@ -1,0 +1,1500 @@
+fileFormatVersion: 2
+guid: 256729417cff443e4af7e76ecbff0cd0
+timeCreated: 1486078887
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _1951_racer
+    100002: AASBD_wheel
+    100004: AASBD_wheel 1
+    100006: AASBD_wheel 2
+    100008: AASBD_wheel 3
+    100010: axel_assembly
+    100012: axel_assembly 1
+    100014: axle
+    100016: axle 1
+    100018: axle_bar
+    100020: axle_bar 1
+    100022: axle_block
+    100024: axle_block 1
+    100026: body
+    100028: body_-_inner_skin
+    100030: body_-_outer_skin
+    100032: brake_arm
+    100034: brake_bar
+    100036: brake_control
+    100038: brake_lever
+    100040: brake_lever 1
+    100042: brake_mechanism
+    100044: brake_pad
+    100046: brake_pedal
+    100048: brake_spring
+    100050: brakes
+    100052: brakes_-_spring_assembly
+    100054: //RootNode
+    100056: cotter_pin
+    100058: cotter_pin 1
+    100060: cotter_pin 2
+    100062: cotter_pin 3
+    100064: eye_fastener
+    100066: eye_fastener 1
+    100068: eye_hook_1
+    100070: eye_hook_1 1
+    100072: eye_plate_1
+    100074: eye_plate_1 1
+    100076: frames
+    100078: front_axle_steering
+    100080: front_wing_rubber_seals
+    100082: group_0
+    100084: group_0 1
+    100086: group_1
+    100088: group_1 1
+    100090: group_2
+    100092: group_2 1
+    100094: hald_seat_back
+    100096: hald_seat_back 1
+    100098: half_axle_block
+    100100: half_axle_block 1
+    100102: half_axle_block 2
+    100104: half_axle_block 3
+    100106: half_body_-_inner_skin
+    100108: half_body_-_inner_skin 1
+    100110: half_brake_bar
+    100112: half_brake_bar 1
+    100114: half_brake_lever
+    100116: half_brake_lever 1
+    100118: half_brake_lever 2
+    100120: half_brake_lever 3
+    100122: half_brake_pad
+    100124: half_brake_pad 1
+    100126: half_brake_pedal
+    100128: half_brake_pedal 1
+    100130: half_frame_-_aft
+    100132: half_frame_-_aft 1
+    100134: half_frame_-_brace
+    100136: half_frame_-_brace 1
+    100138: half_frame_-_cowl_bracing
+    100140: half_frame_-_cowl_bracing 1
+    100142: half_frame_-_dash
+    100144: half_frame_-_dash 1
+    100146: half_frame_-_fore
+    100148: half_frame_-_fore 1
+    100150: half_frame_-_seat
+    100152: half_frame_-_seat 1
+    100154: half_frame_-_small_brace
+    100156: half_frame_-_small_brace 1
+    100158: half_frames
+    100160: half_frames 1
+    100162: half_steering_column
+    100164: half_steering_column 1
+    100166: half_steering_wheel
+    100168: half_steering_wheel 1
+    100170: half_wing
+    100172: half_wing 1
+    100174: half_wing 2
+    100176: half_wing 3
+    100178: hinge_female_plate
+    100180: hinge_female_plate 1
+    100182: hinge_female_plate 2
+    100184: hinge_female_plate 3
+    100186: hinge_female_plate 4
+    100188: hinge_female_plate 5
+    100190: hinge_female_w._pin
+    100192: hinge_female_w._pin 1
+    100194: hinge_female_w._pin 2
+    100196: hinge_female_w._pin 3
+    100198: hinge_female_w._pin 4
+    100200: hinge_female_w._pin 5
+    100202: hinge_male
+    100204: hinge_male_plate
+    100206: hinge_male_plate 1
+    100208: hinge_male_plate 2
+    100210: hinge_male_plate 3
+    100212: hinge_male_plate 4
+    100214: hinge_pin
+    100216: hinge_pin 1
+    100218: hinge_pin 10
+    100220: hinge_pin 11
+    100222: hinge_pin 2
+    100224: hinge_pin 3
+    100226: hinge_pin 4
+    100228: hinge_pin 5
+    100230: hinge_pin 6
+    100232: hinge_pin 7
+    100234: hinge_pin 8
+    100236: hinge_pin 9
+    100238: ID101
+    100240: ID1010
+    100242: ID1010 1
+    100244: ID1018
+    100246: ID1018 1
+    100248: ID1036
+    100250: ID1036 1
+    100252: ID111
+    100254: ID1153
+    100256: ID1153 1
+    100258: ID1163
+    100260: ID1163 1
+    100262: ID1199
+    100264: ID1199 1
+    100266: ID1209
+    100268: ID1209 1
+    100270: ID121
+    100272: ID1245
+    100274: ID1245 1
+    100276: ID1255
+    100278: ID1255 1
+    100280: ID1263
+    100282: ID1263 1
+    100284: ID1271
+    100286: ID1271 1
+    100288: ID1308
+    100290: ID1308 1
+    100292: ID131
+    100294: ID1318
+    100296: ID1318 1
+    100298: ID1328
+    100300: ID1328 1
+    100302: ID1338
+    100304: ID1338 1
+    100306: ID1348
+    100308: ID1348 1
+    100310: ID1352
+    100312: ID1352 1
+    100314: ID1356
+    100316: ID1356 1
+    100318: ID1372
+    100320: ID1372 1
+    100322: ID1382
+    100324: ID1382 1
+    100326: ID1390
+    100328: ID1390 1
+    100330: ID1398
+    100332: ID1398 1
+    100334: ID141
+    100336: ID1428
+    100338: ID1428 1
+    100340: ID1438
+    100342: ID1438 1
+    100344: ID1448
+    100346: ID1448 1
+    100348: ID1458
+    100350: ID1458 1
+    100352: ID1468
+    100354: ID1468 1
+    100356: ID1472
+    100358: ID1472 1
+    100360: ID1476
+    100362: ID1476 1
+    100364: ID151
+    100366: ID1520
+    100368: ID1544
+    100370: ID1554
+    100372: ID1562
+    100374: ID1566
+    100376: ID1582
+    100378: ID1592
+    100380: ID1600
+    100382: ID1604
+    100384: ID161
+    100386: ID1699
+    100388: ID1709
+    100390: ID1725
+    100392: ID1735
+    100394: ID176
+    100396: ID186
+    100398: ID196
+    100400: ID206
+    100402: ID216
+    100404: ID226
+    100406: ID236
+    100408: ID246
+    100410: ID256
+    100412: ID266
+    100414: ID274
+    100416: ID284
+    100418: ID288
+    100420: ID29
+    100422: ID292
+    100424: ID296
+    100426: ID300
+    100428: ID320
+    100430: ID343
+    100432: ID353
+    100434: ID365
+    100436: ID380
+    100438: ID388
+    100440: ID396
+    100442: ID414
+    100444: ID428
+    100446: ID438
+    100448: ID446
+    100450: ID456
+    100452: ID46
+    100454: ID464
+    100456: ID472
+    100458: ID506
+    100460: ID529
+    100462: ID539
+    100464: ID555
+    100466: ID569
+    100468: ID585
+    100470: ID595
+    100472: ID61
+    100474: ID661
+    100476: ID684
+    100478: ID694
+    100480: ID710
+    100482: ID724
+    100484: ID740
+    100486: ID748
+    100488: ID76
+    100490: ID806
+    100492: ID828
+    100494: ID86
+    100496: inner_skin_-_cowl_edge
+    100498: inner_skin_-_cowl_edge 1
+    100500: instance_0
+    100502: instance_1
+    100504: instance_10
+    100506: instance_10 1
+    100508: instance_11
+    100510: instance_11 1
+    100512: instance_12
+    100514: instance_12 1
+    100516: instance_13
+    100518: instance_13 1
+    100520: instance_14
+    100522: instance_14 1
+    100524: instance_15
+    100526: instance_15 1
+    100528: instance_16
+    100530: instance_16 1
+    100532: instance_17
+    100534: instance_17 1
+    100536: instance_18
+    100538: instance_19
+    100540: instance_2
+    100542: instance_20
+    100544: instance_21
+    100546: instance_22
+    100548: instance_23
+    100550: instance_24
+    100552: instance_25
+    100554: instance_26
+    100556: instance_27
+    100558: instance_28
+    100560: instance_29
+    100562: instance_29 1
+    100564: instance_3
+    100566: instance_30
+    100568: instance_30 1
+    100570: instance_31
+    100572: instance_32
+    100574: instance_33
+    100576: instance_34
+    100578: instance_34 1
+    100580: instance_34 2
+    100582: instance_34 3
+    100584: instance_34 4
+    100586: instance_34 5
+    100588: instance_35
+    100590: instance_35 1
+    100592: instance_35 2
+    100594: instance_35 3
+    100596: instance_35 4
+    100598: instance_35 5
+    100600: instance_36
+    100602: instance_36 1
+    100604: instance_36 2
+    100606: instance_36 3
+    100608: instance_36 4
+    100610: instance_36 5
+    100612: instance_37
+    100614: instance_38
+    100616: instance_39
+    100618: instance_4
+    100620: instance_40
+    100622: instance_41
+    100624: instance_42
+    100626: instance_43
+    100628: instance_44
+    100630: instance_45
+    100632: instance_45 1
+    100634: instance_46
+    100636: instance_46 1
+    100638: instance_47
+    100640: instance_48
+    100642: instance_49
+    100644: instance_5
+    100646: instance_50
+    100648: instance_51
+    100650: instance_52
+    100652: instance_53
+    100654: instance_54
+    100656: instance_55
+    100658: instance_55 1
+    100660: instance_56
+    100662: instance_56 1
+    100664: instance_57
+    100666: instance_58
+    100668: instance_59
+    100670: instance_6
+    100672: instance_6 1
+    100674: instance_60
+    100676: instance_60 1
+    100678: instance_61
+    100680: instance_61 1
+    100682: instance_62
+    100684: instance_62 1
+    100686: instance_63
+    100688: instance_63 1
+    100690: instance_64
+    100692: instance_64 1
+    100694: instance_65
+    100696: instance_65 1
+    100698: instance_65 2
+    100700: instance_65 3
+    100702: instance_66
+    100704: instance_66 1
+    100706: instance_66 2
+    100708: instance_66 3
+    100710: instance_67
+    100712: instance_67 1
+    100714: instance_68
+    100716: instance_69
+    100718: instance_69 1
+    100720: instance_7
+    100722: instance_70
+    100724: instance_70 1
+    100726: instance_70 2
+    100728: instance_70 3
+    100730: instance_71
+    100732: instance_71 1
+    100734: instance_71 2
+    100736: instance_71 3
+    100738: instance_72
+    100740: instance_72 1
+    100742: instance_72 2
+    100744: instance_72 3
+    100746: instance_73
+    100748: instance_73 1
+    100750: instance_74
+    100752: instance_75
+    100754: instance_76
+    100756: instance_77
+    100758: instance_78
+    100760: instance_79
+    100762: instance_8
+    100764: instance_80
+    100766: instance_81
+    100768: instance_82
+    100770: instance_83
+    100772: instance_83 1
+    100774: instance_84
+    100776: instance_84 1
+    100778: instance_85
+    100780: instance_85 1
+    100782: instance_86
+    100784: instance_86 1
+    100786: instance_87
+    100788: instance_87 1
+    100790: instance_88
+    100792: instance_89
+    100794: instance_9
+    100796: instance_90
+    100798: instance_91
+    100800: instance_92
+    100802: instance_93
+    100804: instance_94
+    100806: instance_95
+    100808: instance_96
+    100810: pedal_hinge
+    100812: pedal_hinge 1
+    100814: pedal_hinges
+    100816: rear_wing_axle
+    100818: rear_wing_brace
+    100820: rear_wing_brace 1
+    100822: rubber_seal
+    100824: rubber_seal 1
+    100826: Soap_Box_Derby_Racer___1951_
+    100828: spindle
+    100830: spindle 1
+    100832: steering_column
+    100834: steering_column_flange
+    100836: steering_control
+    100838: steering_wheel
+    100840: wheel_bearing
+    100842: wheel_bearing 1
+    100844: wheel_bearing 2
+    100846: wheel_bearing 3
+    100848: wheel_body
+    100850: wheel_body 1
+    100852: wheel_body 2
+    100854: wheel_body 3
+    100856: wheel_fastener
+    100858: wheel_fastener 1
+    100860: wheel_fastener 2
+    100862: wheel_fastener 3
+    100864: wheel_fasteners
+    100866: wheel_fasteners 1
+    100868: wheel_nut
+    100870: wheel_nut 1
+    100872: wheel_nut 2
+    100874: wheel_nut 3
+    100876: wheel_pair
+    100878: wheel_pair 1
+    100880: wheel_rubber
+    100882: wheel_rubber 1
+    100884: wheel_rubber 2
+    100886: wheel_rubber 3
+    100888: wing_assembly
+    100890: wing_assembly 1
+    400000: _1951_racer
+    400002: AASBD_wheel
+    400004: AASBD_wheel 1
+    400006: AASBD_wheel 2
+    400008: AASBD_wheel 3
+    400010: axel_assembly
+    400012: axel_assembly 1
+    400014: axle
+    400016: axle 1
+    400018: axle_bar
+    400020: axle_bar 1
+    400022: axle_block
+    400024: axle_block 1
+    400026: body
+    400028: body_-_inner_skin
+    400030: body_-_outer_skin
+    400032: brake_arm
+    400034: brake_bar
+    400036: brake_control
+    400038: brake_lever
+    400040: brake_lever 1
+    400042: brake_mechanism
+    400044: brake_pad
+    400046: brake_pedal
+    400048: brake_spring
+    400050: brakes
+    400052: brakes_-_spring_assembly
+    400054: //RootNode
+    400056: cotter_pin
+    400058: cotter_pin 1
+    400060: cotter_pin 2
+    400062: cotter_pin 3
+    400064: eye_fastener
+    400066: eye_fastener 1
+    400068: eye_hook_1
+    400070: eye_hook_1 1
+    400072: eye_plate_1
+    400074: eye_plate_1 1
+    400076: frames
+    400078: front_axle_steering
+    400080: front_wing_rubber_seals
+    400082: group_0
+    400084: group_0 1
+    400086: group_1
+    400088: group_1 1
+    400090: group_2
+    400092: group_2 1
+    400094: hald_seat_back
+    400096: hald_seat_back 1
+    400098: half_axle_block
+    400100: half_axle_block 1
+    400102: half_axle_block 2
+    400104: half_axle_block 3
+    400106: half_body_-_inner_skin
+    400108: half_body_-_inner_skin 1
+    400110: half_brake_bar
+    400112: half_brake_bar 1
+    400114: half_brake_lever
+    400116: half_brake_lever 1
+    400118: half_brake_lever 2
+    400120: half_brake_lever 3
+    400122: half_brake_pad
+    400124: half_brake_pad 1
+    400126: half_brake_pedal
+    400128: half_brake_pedal 1
+    400130: half_frame_-_aft
+    400132: half_frame_-_aft 1
+    400134: half_frame_-_brace
+    400136: half_frame_-_brace 1
+    400138: half_frame_-_cowl_bracing
+    400140: half_frame_-_cowl_bracing 1
+    400142: half_frame_-_dash
+    400144: half_frame_-_dash 1
+    400146: half_frame_-_fore
+    400148: half_frame_-_fore 1
+    400150: half_frame_-_seat
+    400152: half_frame_-_seat 1
+    400154: half_frame_-_small_brace
+    400156: half_frame_-_small_brace 1
+    400158: half_frames
+    400160: half_frames 1
+    400162: half_steering_column
+    400164: half_steering_column 1
+    400166: half_steering_wheel
+    400168: half_steering_wheel 1
+    400170: half_wing
+    400172: half_wing 1
+    400174: half_wing 2
+    400176: half_wing 3
+    400178: hinge_female_plate
+    400180: hinge_female_plate 1
+    400182: hinge_female_plate 2
+    400184: hinge_female_plate 3
+    400186: hinge_female_plate 4
+    400188: hinge_female_plate 5
+    400190: hinge_female_w._pin
+    400192: hinge_female_w._pin 1
+    400194: hinge_female_w._pin 2
+    400196: hinge_female_w._pin 3
+    400198: hinge_female_w._pin 4
+    400200: hinge_female_w._pin 5
+    400202: hinge_male
+    400204: hinge_male_plate
+    400206: hinge_male_plate 1
+    400208: hinge_male_plate 2
+    400210: hinge_male_plate 3
+    400212: hinge_male_plate 4
+    400214: hinge_pin
+    400216: hinge_pin 1
+    400218: hinge_pin 10
+    400220: hinge_pin 11
+    400222: hinge_pin 2
+    400224: hinge_pin 3
+    400226: hinge_pin 4
+    400228: hinge_pin 5
+    400230: hinge_pin 6
+    400232: hinge_pin 7
+    400234: hinge_pin 8
+    400236: hinge_pin 9
+    400238: ID101
+    400240: ID1010
+    400242: ID1010 1
+    400244: ID1018
+    400246: ID1018 1
+    400248: ID1036
+    400250: ID1036 1
+    400252: ID111
+    400254: ID1153
+    400256: ID1153 1
+    400258: ID1163
+    400260: ID1163 1
+    400262: ID1199
+    400264: ID1199 1
+    400266: ID1209
+    400268: ID1209 1
+    400270: ID121
+    400272: ID1245
+    400274: ID1245 1
+    400276: ID1255
+    400278: ID1255 1
+    400280: ID1263
+    400282: ID1263 1
+    400284: ID1271
+    400286: ID1271 1
+    400288: ID1308
+    400290: ID1308 1
+    400292: ID131
+    400294: ID1318
+    400296: ID1318 1
+    400298: ID1328
+    400300: ID1328 1
+    400302: ID1338
+    400304: ID1338 1
+    400306: ID1348
+    400308: ID1348 1
+    400310: ID1352
+    400312: ID1352 1
+    400314: ID1356
+    400316: ID1356 1
+    400318: ID1372
+    400320: ID1372 1
+    400322: ID1382
+    400324: ID1382 1
+    400326: ID1390
+    400328: ID1390 1
+    400330: ID1398
+    400332: ID1398 1
+    400334: ID141
+    400336: ID1428
+    400338: ID1428 1
+    400340: ID1438
+    400342: ID1438 1
+    400344: ID1448
+    400346: ID1448 1
+    400348: ID1458
+    400350: ID1458 1
+    400352: ID1468
+    400354: ID1468 1
+    400356: ID1472
+    400358: ID1472 1
+    400360: ID1476
+    400362: ID1476 1
+    400364: ID151
+    400366: ID1520
+    400368: ID1544
+    400370: ID1554
+    400372: ID1562
+    400374: ID1566
+    400376: ID1582
+    400378: ID1592
+    400380: ID1600
+    400382: ID1604
+    400384: ID161
+    400386: ID1699
+    400388: ID1709
+    400390: ID1725
+    400392: ID1735
+    400394: ID176
+    400396: ID186
+    400398: ID196
+    400400: ID206
+    400402: ID216
+    400404: ID226
+    400406: ID236
+    400408: ID246
+    400410: ID256
+    400412: ID266
+    400414: ID274
+    400416: ID284
+    400418: ID288
+    400420: ID29
+    400422: ID292
+    400424: ID296
+    400426: ID300
+    400428: ID320
+    400430: ID343
+    400432: ID353
+    400434: ID365
+    400436: ID380
+    400438: ID388
+    400440: ID396
+    400442: ID414
+    400444: ID428
+    400446: ID438
+    400448: ID446
+    400450: ID456
+    400452: ID46
+    400454: ID464
+    400456: ID472
+    400458: ID506
+    400460: ID529
+    400462: ID539
+    400464: ID555
+    400466: ID569
+    400468: ID585
+    400470: ID595
+    400472: ID61
+    400474: ID661
+    400476: ID684
+    400478: ID694
+    400480: ID710
+    400482: ID724
+    400484: ID740
+    400486: ID748
+    400488: ID76
+    400490: ID806
+    400492: ID828
+    400494: ID86
+    400496: inner_skin_-_cowl_edge
+    400498: inner_skin_-_cowl_edge 1
+    400500: instance_0
+    400502: instance_1
+    400504: instance_10
+    400506: instance_10 1
+    400508: instance_11
+    400510: instance_11 1
+    400512: instance_12
+    400514: instance_12 1
+    400516: instance_13
+    400518: instance_13 1
+    400520: instance_14
+    400522: instance_14 1
+    400524: instance_15
+    400526: instance_15 1
+    400528: instance_16
+    400530: instance_16 1
+    400532: instance_17
+    400534: instance_17 1
+    400536: instance_18
+    400538: instance_19
+    400540: instance_2
+    400542: instance_20
+    400544: instance_21
+    400546: instance_22
+    400548: instance_23
+    400550: instance_24
+    400552: instance_25
+    400554: instance_26
+    400556: instance_27
+    400558: instance_28
+    400560: instance_29
+    400562: instance_29 1
+    400564: instance_3
+    400566: instance_30
+    400568: instance_30 1
+    400570: instance_31
+    400572: instance_32
+    400574: instance_33
+    400576: instance_34
+    400578: instance_34 1
+    400580: instance_34 2
+    400582: instance_34 3
+    400584: instance_34 4
+    400586: instance_34 5
+    400588: instance_35
+    400590: instance_35 1
+    400592: instance_35 2
+    400594: instance_35 3
+    400596: instance_35 4
+    400598: instance_35 5
+    400600: instance_36
+    400602: instance_36 1
+    400604: instance_36 2
+    400606: instance_36 3
+    400608: instance_36 4
+    400610: instance_36 5
+    400612: instance_37
+    400614: instance_38
+    400616: instance_39
+    400618: instance_4
+    400620: instance_40
+    400622: instance_41
+    400624: instance_42
+    400626: instance_43
+    400628: instance_44
+    400630: instance_45
+    400632: instance_45 1
+    400634: instance_46
+    400636: instance_46 1
+    400638: instance_47
+    400640: instance_48
+    400642: instance_49
+    400644: instance_5
+    400646: instance_50
+    400648: instance_51
+    400650: instance_52
+    400652: instance_53
+    400654: instance_54
+    400656: instance_55
+    400658: instance_55 1
+    400660: instance_56
+    400662: instance_56 1
+    400664: instance_57
+    400666: instance_58
+    400668: instance_59
+    400670: instance_6
+    400672: instance_6 1
+    400674: instance_60
+    400676: instance_60 1
+    400678: instance_61
+    400680: instance_61 1
+    400682: instance_62
+    400684: instance_62 1
+    400686: instance_63
+    400688: instance_63 1
+    400690: instance_64
+    400692: instance_64 1
+    400694: instance_65
+    400696: instance_65 1
+    400698: instance_65 2
+    400700: instance_65 3
+    400702: instance_66
+    400704: instance_66 1
+    400706: instance_66 2
+    400708: instance_66 3
+    400710: instance_67
+    400712: instance_67 1
+    400714: instance_68
+    400716: instance_69
+    400718: instance_69 1
+    400720: instance_7
+    400722: instance_70
+    400724: instance_70 1
+    400726: instance_70 2
+    400728: instance_70 3
+    400730: instance_71
+    400732: instance_71 1
+    400734: instance_71 2
+    400736: instance_71 3
+    400738: instance_72
+    400740: instance_72 1
+    400742: instance_72 2
+    400744: instance_72 3
+    400746: instance_73
+    400748: instance_73 1
+    400750: instance_74
+    400752: instance_75
+    400754: instance_76
+    400756: instance_77
+    400758: instance_78
+    400760: instance_79
+    400762: instance_8
+    400764: instance_80
+    400766: instance_81
+    400768: instance_82
+    400770: instance_83
+    400772: instance_83 1
+    400774: instance_84
+    400776: instance_84 1
+    400778: instance_85
+    400780: instance_85 1
+    400782: instance_86
+    400784: instance_86 1
+    400786: instance_87
+    400788: instance_87 1
+    400790: instance_88
+    400792: instance_89
+    400794: instance_9
+    400796: instance_90
+    400798: instance_91
+    400800: instance_92
+    400802: instance_93
+    400804: instance_94
+    400806: instance_95
+    400808: instance_96
+    400810: pedal_hinge
+    400812: pedal_hinge 1
+    400814: pedal_hinges
+    400816: rear_wing_axle
+    400818: rear_wing_brace
+    400820: rear_wing_brace 1
+    400822: rubber_seal
+    400824: rubber_seal 1
+    400826: Soap_Box_Derby_Racer___1951_
+    400828: spindle
+    400830: spindle 1
+    400832: steering_column
+    400834: steering_column_flange
+    400836: steering_control
+    400838: steering_wheel
+    400840: wheel_bearing
+    400842: wheel_bearing 1
+    400844: wheel_bearing 2
+    400846: wheel_bearing 3
+    400848: wheel_body
+    400850: wheel_body 1
+    400852: wheel_body 2
+    400854: wheel_body 3
+    400856: wheel_fastener
+    400858: wheel_fastener 1
+    400860: wheel_fastener 2
+    400862: wheel_fastener 3
+    400864: wheel_fasteners
+    400866: wheel_fasteners 1
+    400868: wheel_nut
+    400870: wheel_nut 1
+    400872: wheel_nut 2
+    400874: wheel_nut 3
+    400876: wheel_pair
+    400878: wheel_pair 1
+    400880: wheel_rubber
+    400882: wheel_rubber 1
+    400884: wheel_rubber 2
+    400886: wheel_rubber 3
+    400888: wing_assembly
+    400890: wing_assembly 1
+    2300000: axle
+    2300002: axle 1
+    2300004: axle_bar
+    2300006: axle_bar 1
+    2300008: body_-_outer_skin
+    2300010: brake_spring
+    2300012: cotter_pin
+    2300014: cotter_pin 1
+    2300016: cotter_pin 2
+    2300018: cotter_pin 3
+    2300020: eye_hook_1
+    2300022: eye_hook_1 1
+    2300024: eye_plate_1
+    2300026: eye_plate_1 1
+    2300028: group_0
+    2300030: group_0 1
+    2300032: group_1
+    2300034: group_1 1
+    2300036: group_2
+    2300038: group_2 1
+    2300040: hald_seat_back
+    2300042: hald_seat_back 1
+    2300044: half_axle_block
+    2300046: half_axle_block 1
+    2300048: half_axle_block 2
+    2300050: half_axle_block 3
+    2300052: half_body_-_inner_skin
+    2300054: half_body_-_inner_skin 1
+    2300056: half_brake_bar
+    2300058: half_brake_bar 1
+    2300060: half_brake_lever
+    2300062: half_brake_lever 1
+    2300064: half_brake_lever 2
+    2300066: half_brake_lever 3
+    2300068: half_brake_pad
+    2300070: half_brake_pad 1
+    2300072: half_brake_pedal
+    2300074: half_brake_pedal 1
+    2300076: half_frame_-_brace
+    2300078: half_frame_-_brace 1
+    2300080: half_frame_-_cowl_bracing
+    2300082: half_frame_-_cowl_bracing 1
+    2300084: half_frame_-_fore
+    2300086: half_frame_-_fore 1
+    2300088: half_frame_-_small_brace
+    2300090: half_frame_-_small_brace 1
+    2300092: half_steering_column
+    2300094: half_steering_column 1
+    2300096: half_steering_wheel
+    2300098: half_steering_wheel 1
+    2300100: half_wing
+    2300102: half_wing 1
+    2300104: half_wing 2
+    2300106: half_wing 3
+    2300108: hinge_female_plate
+    2300110: hinge_female_plate 1
+    2300112: hinge_female_plate 2
+    2300114: hinge_female_plate 3
+    2300116: hinge_female_plate 4
+    2300118: hinge_female_plate 5
+    2300120: hinge_male
+    2300122: hinge_male_plate
+    2300124: hinge_male_plate 1
+    2300126: hinge_male_plate 2
+    2300128: hinge_male_plate 3
+    2300130: hinge_male_plate 4
+    2300132: hinge_pin
+    2300134: hinge_pin 1
+    2300136: hinge_pin 10
+    2300138: hinge_pin 11
+    2300140: hinge_pin 2
+    2300142: hinge_pin 3
+    2300144: hinge_pin 4
+    2300146: hinge_pin 5
+    2300148: hinge_pin 6
+    2300150: hinge_pin 7
+    2300152: hinge_pin 8
+    2300154: hinge_pin 9
+    2300156: ID101
+    2300158: ID1010
+    2300160: ID1010 1
+    2300162: ID1018
+    2300164: ID1018 1
+    2300166: ID1036
+    2300168: ID1036 1
+    2300170: ID111
+    2300172: ID1153
+    2300174: ID1153 1
+    2300176: ID1163
+    2300178: ID1163 1
+    2300180: ID1199
+    2300182: ID1199 1
+    2300184: ID1209
+    2300186: ID1209 1
+    2300188: ID121
+    2300190: ID1245
+    2300192: ID1245 1
+    2300194: ID1255
+    2300196: ID1255 1
+    2300198: ID1263
+    2300200: ID1263 1
+    2300202: ID1271
+    2300204: ID1271 1
+    2300206: ID1308
+    2300208: ID1308 1
+    2300210: ID131
+    2300212: ID1318
+    2300214: ID1318 1
+    2300216: ID1328
+    2300218: ID1328 1
+    2300220: ID1338
+    2300222: ID1338 1
+    2300224: ID1372
+    2300226: ID1372 1
+    2300228: ID1382
+    2300230: ID1382 1
+    2300232: ID1390
+    2300234: ID1390 1
+    2300236: ID1398
+    2300238: ID1398 1
+    2300240: ID141
+    2300242: ID1428
+    2300244: ID1428 1
+    2300246: ID1438
+    2300248: ID1438 1
+    2300250: ID1448
+    2300252: ID1448 1
+    2300254: ID1458
+    2300256: ID1458 1
+    2300258: ID151
+    2300260: ID1520
+    2300262: ID1544
+    2300264: ID1554
+    2300266: ID1582
+    2300268: ID1592
+    2300270: ID161
+    2300272: ID1699
+    2300274: ID1725
+    2300276: ID176
+    2300278: ID186
+    2300280: ID196
+    2300282: ID206
+    2300284: ID216
+    2300286: ID226
+    2300288: ID236
+    2300290: ID246
+    2300292: ID256
+    2300294: ID266
+    2300296: ID274
+    2300298: ID29
+    2300300: ID343
+    2300302: ID353
+    2300304: ID365
+    2300306: ID380
+    2300308: ID388
+    2300310: ID428
+    2300312: ID438
+    2300314: ID446
+    2300316: ID456
+    2300318: ID46
+    2300320: ID464
+    2300322: ID506
+    2300324: ID529
+    2300326: ID585
+    2300328: ID595
+    2300330: ID61
+    2300332: ID661
+    2300334: ID684
+    2300336: ID740
+    2300338: ID748
+    2300340: ID76
+    2300342: ID806
+    2300344: ID828
+    2300346: ID86
+    2300348: inner_skin_-_cowl_edge
+    2300350: inner_skin_-_cowl_edge 1
+    2300352: rear_wing_brace
+    2300354: rear_wing_brace 1
+    2300356: rubber_seal
+    2300358: rubber_seal 1
+    2300360: spindle
+    2300362: spindle 1
+    2300364: steering_column_flange
+    2300366: wheel_bearing
+    2300368: wheel_bearing 1
+    2300370: wheel_bearing 2
+    2300372: wheel_bearing 3
+    2300374: wheel_body
+    2300376: wheel_body 1
+    2300378: wheel_body 2
+    2300380: wheel_body 3
+    2300382: wheel_nut
+    2300384: wheel_nut 1
+    2300386: wheel_nut 2
+    2300388: wheel_nut 3
+    2300390: wheel_rubber
+    2300392: wheel_rubber 1
+    2300394: wheel_rubber 2
+    2300396: wheel_rubber 3
+    3300000: axle
+    3300002: axle 1
+    3300004: axle_bar
+    3300006: axle_bar 1
+    3300008: body_-_outer_skin
+    3300010: brake_spring
+    3300012: cotter_pin
+    3300014: cotter_pin 1
+    3300016: cotter_pin 2
+    3300018: cotter_pin 3
+    3300020: eye_hook_1
+    3300022: eye_hook_1 1
+    3300024: eye_plate_1
+    3300026: eye_plate_1 1
+    3300028: group_0
+    3300030: group_0 1
+    3300032: group_1
+    3300034: group_1 1
+    3300036: group_2
+    3300038: group_2 1
+    3300040: hald_seat_back
+    3300042: hald_seat_back 1
+    3300044: half_axle_block
+    3300046: half_axle_block 1
+    3300048: half_axle_block 2
+    3300050: half_axle_block 3
+    3300052: half_body_-_inner_skin
+    3300054: half_body_-_inner_skin 1
+    3300056: half_brake_bar
+    3300058: half_brake_bar 1
+    3300060: half_brake_lever
+    3300062: half_brake_lever 1
+    3300064: half_brake_lever 2
+    3300066: half_brake_lever 3
+    3300068: half_brake_pad
+    3300070: half_brake_pad 1
+    3300072: half_brake_pedal
+    3300074: half_brake_pedal 1
+    3300076: half_frame_-_brace
+    3300078: half_frame_-_brace 1
+    3300080: half_frame_-_cowl_bracing
+    3300082: half_frame_-_cowl_bracing 1
+    3300084: half_frame_-_fore
+    3300086: half_frame_-_fore 1
+    3300088: half_frame_-_small_brace
+    3300090: half_frame_-_small_brace 1
+    3300092: half_steering_column
+    3300094: half_steering_column 1
+    3300096: half_steering_wheel
+    3300098: half_steering_wheel 1
+    3300100: half_wing
+    3300102: half_wing 1
+    3300104: half_wing 2
+    3300106: half_wing 3
+    3300108: hinge_female_plate
+    3300110: hinge_female_plate 1
+    3300112: hinge_female_plate 2
+    3300114: hinge_female_plate 3
+    3300116: hinge_female_plate 4
+    3300118: hinge_female_plate 5
+    3300120: hinge_male
+    3300122: hinge_male_plate
+    3300124: hinge_male_plate 1
+    3300126: hinge_male_plate 2
+    3300128: hinge_male_plate 3
+    3300130: hinge_male_plate 4
+    3300132: hinge_pin
+    3300134: hinge_pin 1
+    3300136: hinge_pin 10
+    3300138: hinge_pin 11
+    3300140: hinge_pin 2
+    3300142: hinge_pin 3
+    3300144: hinge_pin 4
+    3300146: hinge_pin 5
+    3300148: hinge_pin 6
+    3300150: hinge_pin 7
+    3300152: hinge_pin 8
+    3300154: hinge_pin 9
+    3300156: ID101
+    3300158: ID1010
+    3300160: ID1010 1
+    3300162: ID1018
+    3300164: ID1018 1
+    3300166: ID1036
+    3300168: ID1036 1
+    3300170: ID111
+    3300172: ID1153
+    3300174: ID1153 1
+    3300176: ID1163
+    3300178: ID1163 1
+    3300180: ID1199
+    3300182: ID1199 1
+    3300184: ID1209
+    3300186: ID1209 1
+    3300188: ID121
+    3300190: ID1245
+    3300192: ID1245 1
+    3300194: ID1255
+    3300196: ID1255 1
+    3300198: ID1263
+    3300200: ID1263 1
+    3300202: ID1271
+    3300204: ID1271 1
+    3300206: ID1308
+    3300208: ID1308 1
+    3300210: ID131
+    3300212: ID1318
+    3300214: ID1318 1
+    3300216: ID1328
+    3300218: ID1328 1
+    3300220: ID1338
+    3300222: ID1338 1
+    3300224: ID1372
+    3300226: ID1372 1
+    3300228: ID1382
+    3300230: ID1382 1
+    3300232: ID1390
+    3300234: ID1390 1
+    3300236: ID1398
+    3300238: ID1398 1
+    3300240: ID141
+    3300242: ID1428
+    3300244: ID1428 1
+    3300246: ID1438
+    3300248: ID1438 1
+    3300250: ID1448
+    3300252: ID1448 1
+    3300254: ID1458
+    3300256: ID1458 1
+    3300258: ID151
+    3300260: ID1520
+    3300262: ID1544
+    3300264: ID1554
+    3300266: ID1582
+    3300268: ID1592
+    3300270: ID161
+    3300272: ID1699
+    3300274: ID1725
+    3300276: ID176
+    3300278: ID186
+    3300280: ID196
+    3300282: ID206
+    3300284: ID216
+    3300286: ID226
+    3300288: ID236
+    3300290: ID246
+    3300292: ID256
+    3300294: ID266
+    3300296: ID274
+    3300298: ID29
+    3300300: ID343
+    3300302: ID353
+    3300304: ID365
+    3300306: ID380
+    3300308: ID388
+    3300310: ID428
+    3300312: ID438
+    3300314: ID446
+    3300316: ID456
+    3300318: ID46
+    3300320: ID464
+    3300322: ID506
+    3300324: ID529
+    3300326: ID585
+    3300328: ID595
+    3300330: ID61
+    3300332: ID661
+    3300334: ID684
+    3300336: ID740
+    3300338: ID748
+    3300340: ID76
+    3300342: ID806
+    3300344: ID828
+    3300346: ID86
+    3300348: inner_skin_-_cowl_edge
+    3300350: inner_skin_-_cowl_edge 1
+    3300352: rear_wing_brace
+    3300354: rear_wing_brace 1
+    3300356: rubber_seal
+    3300358: rubber_seal 1
+    3300360: spindle
+    3300362: spindle 1
+    3300364: steering_column_flange
+    3300366: wheel_bearing
+    3300368: wheel_bearing 1
+    3300370: wheel_bearing 2
+    3300372: wheel_bearing 3
+    3300374: wheel_body
+    3300376: wheel_body 1
+    3300378: wheel_body 2
+    3300380: wheel_body 3
+    3300382: wheel_nut
+    3300384: wheel_nut 1
+    3300386: wheel_nut 2
+    3300388: wheel_nut 3
+    3300390: wheel_rubber
+    3300392: wheel_rubber 1
+    3300394: wheel_rubber 2
+    3300396: wheel_rubber 3
+    4300000: body_-_outer_skin
+    4300002: ID29
+    4300004: ID46
+    4300006: ID61
+    4300008: ID76
+    4300010: ID86
+    4300012: ID101
+    4300014: ID111
+    4300016: ID121
+    4300018: ID131
+    4300020: ID141
+    4300022: ID151
+    4300024: ID161
+    4300026: ID176
+    4300028: ID186
+    4300030: ID196
+    4300032: ID206
+    4300034: ID216
+    4300036: ID226
+    4300038: ID236
+    4300040: ID246
+    4300042: ID256
+    4300044: ID266
+    4300046: ID274
+    4300048: half_body_-_inner_skin
+    4300050: ID343
+    4300052: ID353
+    4300054: ID365
+    4300056: ID380
+    4300058: ID388
+    4300060: inner_skin_-_cowl_edge
+    4300062: half_body_-_inner_skin
+    4300064: ID428
+    4300066: ID438
+    4300068: ID446
+    4300070: ID456
+    4300072: ID464
+    4300074: inner_skin_-_cowl_edge
+    4300076: group_0
+    4300078: group_1
+    4300080: ID506
+    4300082: group_2
+    4300084: ID529
+    4300086: half_frame_-_fore
+    4300088: half_frame_-_cowl_bracing
+    4300090: hald_seat_back
+    4300092: ID585
+    4300094: ID595
+    4300096: half_frame_-_brace
+    4300098: half_frame_-_small_brace
+    4300100: group_0
+    4300102: group_1
+    4300104: ID661
+    4300106: group_2
+    4300108: ID684
+    4300110: half_frame_-_fore
+    4300112: half_frame_-_cowl_bracing
+    4300114: hald_seat_back
+    4300116: ID740
+    4300118: ID748
+    4300120: half_frame_-_brace
+    4300122: half_frame_-_small_brace
+    4300124: half_brake_bar
+    4300126: ID806
+    4300128: half_brake_bar
+    4300130: ID828
+    4300132: half_brake_pad
+    4300134: half_brake_pad
+    4300136: half_brake_lever
+    4300138: half_brake_lever
+    4300140: hinge_male
+    4300142: hinge_pin
+    4300144: hinge_pin
+    4300146: hinge_female_plate
+    4300148: hinge_male_plate
+    4300150: hinge_male_plate
+    4300152: hinge_female_plate
+    4300154: eye_hook_1
+    4300156: ID1010
+    4300158: ID1018
+    4300160: eye_plate_1
+    4300162: ID1036
+    4300164: brake_spring
+    4300166: half_brake_pedal
+    4300168: half_brake_pedal
+    4300170: axle
+    4300172: spindle
+    4300174: axle_bar
+    4300176: cotter_pin
+    4300178: ID1153
+    4300180: ID1163
+    4300182: wheel_nut
+    4300184: cotter_pin
+    4300186: ID1199
+    4300188: ID1209
+    4300190: wheel_nut
+    4300192: wheel_bearing
+    4300194: ID1245
+    4300196: ID1255
+    4300198: ID1263
+    4300200: ID1271
+    4300202: wheel_rubber
+    4300204: wheel_body
+    4300206: ID1308
+    4300208: ID1318
+    4300210: ID1328
+    4300212: ID1338
+    4300214: wheel_bearing
+    4300216: ID1372
+    4300218: ID1382
+    4300220: ID1390
+    4300222: ID1398
+    4300224: wheel_rubber
+    4300226: wheel_body
+    4300228: ID1428
+    4300230: ID1438
+    4300232: ID1448
+    4300234: ID1458
+    4300236: half_steering_column
+    4300238: half_steering_column
+    4300240: steering_column_flange
+    4300242: ID1520
+    4300244: half_steering_wheel
+    4300246: ID1544
+    4300248: ID1554
+    4300250: half_steering_wheel
+    4300252: ID1582
+    4300254: ID1592
+    4300256: half_wing
+    4300258: half_wing
+    4300260: half_axle_block
+    4300262: half_axle_block
+    4300264: rubber_seal
+    4300266: rubber_seal
+    4300268: rear_wing_brace
+    4300270: ID1699
+    4300272: rear_wing_brace
+    4300274: ID1725
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
