@@ -1,2 +1,2 @@
 # EscapeRoom
-A escape room game made in Unity
+An escape room game made in Unity
