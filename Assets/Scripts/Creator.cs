@@ -1,30 +1,40 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class Creator : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-//		GameObject cube = GameObject.CreatePrimitive (PrimitiveType.Cube);
-//		cube.transform.position = new Vector3 (0.65f, 4.2f, 0);
-//		GameObject loadedHouse = (GameObject)Instantiate (Resources.Load("vitrola"));
-//		loadedHouse.transform.position = new Vector3 (0.1f, 0.1f, 0.1f);
-		GameObject testParent = new GameObject();
-		testParent.transform.position = new Vector3 (-6.94f, 0f, -7.85f);
-		GameObject test = (GameObject)Instantiate (Resources.Load ("Barrel"));
-		test.GetComponentInChildren<MeshCollider> ().convex = true;
-		test.transform.position = new Vector3 (-7.31f, 0f, -8.2f);
-		test.transform.parent = testParent.transform;
-		testParent.AddComponent<Rigidbody> ();
-		//test.GetComponent<Rigidbody> ().isKinematic = true;
-		testParent.AddComponent<PickUp>();
-		testParent.GetComponent<Rigidbody> ().freezeRotation = true;
 
-	
+		//criar sala
+		this.gameObject.GetComponent<CreationMethods>().CreateRoom();
+		// criar luz
+		this.gameObject.GetComponent<CreationMethods>().CreateLights();
+		// criar lâmpadas
+		this.gameObject.GetComponent<CreationMethods> ().CreateLightBulbs ();
+		//criar as fotos
+		this.gameObject.GetComponent<CreationMethods>().CreatePhotos();
+		//criar barris
+		this.gameObject.GetComponent<CreationMethods>().CreateBarrels();
+		//criar adegas
+		this.gameObject.GetComponent<CreationMethods>().CreateWineHouses();
+		//criar quadros
+		this.gameObject.GetComponent<CreationMethods>().CreatePaintings();
+		//criar puzzle do gerador
+		this.gameObject.GetComponent<CreationMethods>().CreateGeneratorPuzzle();
+		//criar porta e vitrola
+		this.gameObject.GetComponent<CreationMethods>().CreateInteractiveObjects();
+		//criar restante dos objetos na sala
+		this.gameObject.GetComponent<CreationMethods>().CreateStaticObjects();
 	}
+
+
 	
 	// Update is called once per frame
 	void Update () {
-	
+		if (Input.GetKeyUp (KeyCode.Escape))
+			SceneManager.LoadScene(0);
+			
 	}
 }
